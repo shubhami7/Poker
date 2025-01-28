@@ -1,7 +1,7 @@
 
 # Poker Game
 
-A simple Poker game implemented in Java. This program provides the foundation for simulating a poker card game with features like a standard deck, card representation, and shuffle/draw mechanics.
+A simple Poker game implemented in Java. This program provides the foundation for simulating a Texas Hold'em Poker game with features like a standard deck, card representation, shuffle/draw mechanics, hand evaluation, and betting mechanics.
 
 ## Features
 
